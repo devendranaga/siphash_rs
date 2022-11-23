@@ -1,4 +1,4 @@
-# README
+# Siphash_rs
 
 Rust implementation of SipHash from its original Author here: https://github.com/veorq/SipHash
 
